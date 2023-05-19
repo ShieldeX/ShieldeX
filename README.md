@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ShieldeX
-- 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning Blockchain security
-- 💞️ I’m looking to collaborate on smart contracts audits
+- 👋 Hi, I’m Kwasi
+- 👀  Cyber Security
+- 🌱 Blockchain 
+- 💞️ I love universe
 - 📫 How to reach me email: mrogolkwasi@protonmail.com
 
 <!---
